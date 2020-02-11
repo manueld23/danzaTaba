@@ -1,0 +1,35 @@
+.btn-link:hover {
+  color: rgba(0, 0, 0, 0.9);
+  text-decoration: underline;
+}
+.btn-link:disabled, .btn-link.disabled {
+  color: red;
+  pointer-events: none;
+}
+
+
+/*tamaño de input de search*/
+small {
+  font-size: 65%;
+}
+small,
+.small {
+  font-size: 65%;
+  font-weight: 200;
+}
+
+.dropdown{
+  color: red;
+}
+
+/*.bg-gray-gris {
+  background-color: #D2D1D2 !important;
+}*/
+
+.bg-gradient-morado {
+  background-color: #4f2567 !important;
+ }
+ .morado{
+color:#454545;
+ }
+
